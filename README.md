@@ -1,6 +1,8 @@
 <h1 align="center"> HTML, CSS e JS </h1>
 
-<img align="right" alt="Feito com Java" src="https://img.shields.io/badge/Feito%20com-Java-ffce00?style=for-the-badge&logo=Java&logoColor=ffce00"/>
+<img align="right" src="https://img.shields.io/badge/Feito%20com-JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=f0db4f"/>
+<img align="right" src="https://img.shields.io/badge/Feito%20com-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=blue"/>
+<img align="right" src="https://img.shields.io/badge/Feito%20com-HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=e34c26"/>
 
 <h3> O que é HTML? 🦴 </h3>
 <p> HTML (HyperText Markup Language) é uma linguagem de marcação utilizada na construção de páginas na Web. É o que permite criar a estrutura básica de um site na internet r, rmbora ele não seja propriamente uma linguagem de programação, usando marcações de códigos chamados “Tags”, ele possibilita que informações sejam organizadas e formatadas para dar estrutura e forma à página. Por isso, pode-se dizer que, em um corpo humano (fazendo uma analogia), o HTML seriam os ossos, responsáveis pela estrutura. </p>
