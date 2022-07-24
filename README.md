@@ -12,6 +12,8 @@
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <p> Ao longo desse repositórios serão encontrados meus projetos e códigos em HTML, CSS e JavaScript, podendo ter explicações e anotações sobre alguns assuntos das linguagens, como uma "aula/anotação". </p>
 
+<br>
+
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
 <br>
