@@ -1,4 +1,4 @@
-<h1 align="center"> HTML, CSS e JS </h1>
+<h1 align="center"> HTML e CSS </h1>
 
 <h3> O que é HTML? 🦴 </h3>
 <p> HTML (HyperText Markup Language) é uma linguagem de marcação utilizada na construção de páginas na Web. É o que permite criar a estrutura básica de um site na internet r, rmbora ele não seja propriamente uma linguagem de programação, usando marcações de códigos chamados “Tags”, ele possibilita que informações sejam organizadas e formatadas para dar estrutura e forma à página. Por isso, pode-se dizer que, em um corpo humano (fazendo uma analogia), o HTML seriam os ossos, responsáveis pela estrutura. </p>
