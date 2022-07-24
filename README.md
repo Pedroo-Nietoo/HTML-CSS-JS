@@ -10,7 +10,7 @@
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Pode-se dizer que o JavaScript seriam os músculos do corpo, responsáveis por tornar a aplicação funcional. </p>
 
 <h3> O que será encontrado ao longo desse repositório? </h3>
-<p> Ao longo desse repositórios serão encontrados meus projetos em HTML, CSS e JavaScript. </p>
+<p> Ao longo desse repositórios serão encontrados meus projetos e códigos em HTML, CSS e JavaScript, podendo ter explicações e anotações sobre alguns assuntos das linguagens, como uma "aula/anotação". </p>
 
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
