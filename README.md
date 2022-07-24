@@ -17,9 +17,5 @@
 <br>
 
 <div align="center">
-<img height="150em" alt="HTML Logo" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360"/>
-
-<img height="150em" alt="CSS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
-
-<img height="150em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img height="400em" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/102625628/180664723-60f62132-1fdf-4c43-a1dd-02b32ad2a073.png"/>
 </div>
