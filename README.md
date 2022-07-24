@@ -17,5 +17,5 @@
 <br>
 
 <div align="center">
-<img height="400em" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/102625628/180664723-60f62132-1fdf-4c43-a1dd-02b32ad2a073.png"/>
+<img height="300em" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/102625628/180664723-60f62132-1fdf-4c43-a1dd-02b32ad2a073.png"/>
 </div>
