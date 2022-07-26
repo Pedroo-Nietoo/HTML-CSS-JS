@@ -1,7 +1,7 @@
 <h1 align="center"> HTML, CSS e JavaScript </h1>
 
 <img height="40em" alt="HTML" src="https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<p> HTML (HyperText Markup Language) é uma linguagem de marcação utilizada na construção de páginas na Web. É o que permite criar a estrutura básica de um site na internet e, embora não seja propriamente uma linguagem de programação, usando marcações de códigos chamados “Tags”, possibilita que informações sejam organizadas e formatadas para dar estrutura e forma à página. Por isso, pode-se dizer que, em uma analogia com o corpo humano, o HTML seriam os ossos, responsáveis pela estrutura.🦴 </p>
+<p> HTML (HyperText Markup Language) é uma linguagem de marcação utilizada na construção de páginas na Web. É o que permite criar a estrutura básica de um site na internet e, embora não seja propriamente uma linguagem de programação, usando marcações de códigos chamados “Tags”, possibilita que informações sejam organizadas e formatadas para dar estrutura e forma à página. Por isso, pode-se dizer que, em uma analogia com o corpo humano, o HTML seriam os ossos, responsáveis pela estrutura. 🦴 </p>
 
 <br>
 
